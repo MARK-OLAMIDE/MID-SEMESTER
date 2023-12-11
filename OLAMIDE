@@ -1,0 +1,17 @@
+// Number 3
+
+def funcp():
+    
+    b = input("Write any number of your choice")
+    stack = []
+    print(stack.len())
+    while b >= len.stack:
+        stack.append(a)
+        c = input("Do you want to add another number")
+        if c == "yes":
+            continue
+        else:
+            break
+        print(stack)
+    
+funcp()
